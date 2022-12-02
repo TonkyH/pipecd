@@ -15,6 +15,7 @@ description: >
 ## Repositories
 - [pipecd](https://github.com/pipe-cd/pipecd): contains all source code and documentation of PipeCD project.
 - [examples](https://github.com/pipe-cd/examples): contains various generated examples to demonstrate how to use PipeCD.
+- [helm 3.8.2](https://helm.sh/docs/intro/install/) (If you want to run Control Plane locally)
 
 ## Commands
 
